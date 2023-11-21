@@ -24,7 +24,7 @@ export default function Cabecalho(){
 
         <div className={styles.fundo}>
             <div className={styles.textoimg}>BEM-VINDO(a)<br/>
-            EXPLORE AS SUAS SÉRIES FAVORITAS</div>
+            EXPLORE SUAS SÉRIES FAVORITAS</div>
             <div className={styles.pesquisa}>
             <input type="text" placeholder="Pesquisar"></input>
             <button type="button">Buscar</button>

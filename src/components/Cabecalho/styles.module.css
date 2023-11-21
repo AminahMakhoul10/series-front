@@ -3,6 +3,7 @@
     background-color: black;
     justify-content: flex-end;
     min-width: 100%;
+    height: 35px;
     padding: 1em;
     align-items: center;
     color:white;
@@ -14,7 +15,8 @@
     line-height: 1.5;
     margin: 0; 
     border-radius: 6px;
-    font-family: Arial, Helvetica, sans-serif
+    font-family: Arial, Helvetica, sans-serif;
+    
 
 }
 .navbar{
@@ -50,7 +52,7 @@
 }
 
 .fundo{
-    background-image: url('/images/capa apocalypses.jpg');
+    background-image: url('/images/capa.jpg');
     background-size: cover;
     background-position: center;
     height: 550px;
@@ -62,7 +64,7 @@
 
 .pesquisa{
     display: flex;
-    padding: 10px;
+    padding: 13px;
     border-radius: 5px;
     background-color: rgba(0, 0, 0, 0.7);
 
@@ -76,7 +78,7 @@
 }
 
 .pesquisa button{
-    padding: 8px;
+  padding: 8px;
   background-color: red;
   color: black;
   border: none;
@@ -86,7 +88,7 @@
 
 .textoimg{
     font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    color: black;
+    color: white;
     font-size: 36px;
     font-weight: 500;
     line-height: 42px;
@@ -95,11 +97,6 @@
     font-weight: bold;
     margin-top: 170px;
     padding-right: 10%;
-   
-    
-
-
-
 
     
 }
